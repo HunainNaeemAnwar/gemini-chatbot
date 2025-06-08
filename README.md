@@ -24,18 +24,25 @@ This is a simple but production-ready chatbot built using **React**, **Tailwind 
 
 ## Getting Started
 
-1. **Clone this repo**
+1. **Clone this repo**  
 ```bash
 git clone https://github.com/HunainNaeemAnwar/gemini-chatbot.git
 cd gemini-chatbot
+```
 
-2. **Install dependencies**
+2. **Install dependencies**  
 ```bash
 npm install
+```
 
-3. **Add your Gemini API key**
-# .env
+3. **Add your Gemini API key**  
+Create a `.env` file and add:  
+```env
 GEMINI_API_KEY=your_google_api_key
+```
 
-4. **Run the app**
+4. **Run the app**  
+```bash
 npm run dev
+```
+
